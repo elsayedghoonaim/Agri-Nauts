@@ -64,6 +64,7 @@ You can install these libraries using `pip`. Run the following commands in your 
 
 ```bash
 pip install numpy pandas matplotlib seaborn plotly statsmodels scikit-learn opencv-python
+```
 
 
 ## App Screenshots
