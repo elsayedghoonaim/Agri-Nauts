@@ -93,6 +93,11 @@ pip install numpy pandas matplotlib seaborn plotly statsmodels scikit-learn open
   </tr>
   <tr>
     <td><img src="assets/screenshots/explore_your_map.jpg" alt="Explore The Map" width="300"/></td>
+    <td><img src="assets/screenshots/Drought.jpg" alt="Drought Forecasting" width="300"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/soil_moisture.jpg" alt="Soil Moisture Predction" width="300"/></td>
     <td></td>
   </tr>
   <tr>
