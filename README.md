@@ -46,15 +46,10 @@ Farmers worldwide face numerous water-related challenges due to unpredictable we
 ## Screenshots
 
 ![Home Screen](assets/screenshots/home_screen.jpg)
-*Home screen of the Agri-nauts app*
 ![Add Friend](assets/screenshots/add_friend.jpg)
-*Home screen of the Agri-nauts app*
 ![Chat Bot](assets/screenshots/chat_bot.jpg)
-*Home screen of the Agri-nauts app*
 ![Plant Disease Detection](assets/screenshots/plant_disease_detection.jpg)
-*Home screen of the Agri-nauts app*
 ![Explore The Map](assets/screenshots/explore_your_map.jpg)
-*Home screen of the Agri-nauts app*
 
 ## Future Enhancements
 
