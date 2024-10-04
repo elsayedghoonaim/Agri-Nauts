@@ -105,7 +105,7 @@ pip install numpy pandas matplotlib seaborn plotly statsmodels scikit-learn open
 
 ## Our Team
 
-Our diverse team consists of 6 talented individuals. For more information about our team, please see our [Team Members](our_team.md) page.
+Our diverse team consists of 6 talented individuals. For more information about our team, please see our [Team Members](assets/our_team.md) page.
 
 ## Acknowledgments
 
@@ -114,6 +114,6 @@ Our diverse team consists of 6 talented individuals. For more information about 
 
 ## Feedback and Support
 
-We value your feedback! If you have any questions, suggestions, or encounter any issues while using the Agri-nauts application, please don't hesitate to reach out to us [Team Members](our_team.md). Your input is crucial in helping us improve the app and provide a better experience for farmers and agricultural professionals worldwide.
+We value your feedback! If you have any questions, suggestions, or encounter any issues while using the Agri-nauts application, please don't hesitate to reach out to us [Team Members](assets/our_team.md). Your input is crucial in helping us improve the app and provide a better experience for farmers and agricultural professionals worldwide.
 
 Thank you for joining us on this important mission to leverage space technology for sustainable agriculture and global food security. Together, we can make a real difference in how we manage our planet's precious resources!
