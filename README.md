@@ -51,6 +51,33 @@ Farmers worldwide face numerous water-related challenges due to unpredictable we
 ![Plant Disease Detection](assets/screenshots/plant_disease_detection.jpg)
 ![Explore The Map](assets/screenshots/explore_your_map.jpg)
 
+<table>
+  <tr>
+    <td><img src="assets/screenshots/home_screen.jpg" alt="Home Screen" width="300"/></td>
+    <td><img src="assets/screenshots/add_friend.jpg" alt="Add Friend" width="300"/></td>
+  </tr>
+  <tr>
+    <td>Home Screen</td>
+    <td>Add Friend</td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/chat_bot.jpg" alt="Chat Bot" width="300"/></td>
+    <td><img src="assets/screenshots/plant_disease_detection.jpg" alt="Plant Disease Detection" width="300"/></td>
+  </tr>
+  <tr>
+    <td>Chat Bot</td>
+    <td>Plant Disease Detection</td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/explore_your_map.jpg" alt="Explore The Map" width="300"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Explore The Map</td>
+    <td></td>
+  </tr>
+</table>
+
 ## Future Enhancements
 
 - Integration of additional data sources
