@@ -38,10 +38,33 @@ Farmers worldwide face numerous water-related challenges due to unpredictable we
   
 ## Data Source
 
+## Prerequisites
 
-## Getting Started
+To ensure that the code runs smoothly, the following Python libraries and packages should be installed. Below is a list of required libraries along with instructions on how to install them.
 
-(Add instructions on how to set up and run the project locally)
+## Required Libraries
+
+1. **time** - A built-in Python library for time-related functions.
+2. **pickle** - A built-in Python library for serializing and deserializing Python objects.
+3. **numpy** - A fundamental package for scientific computing with Python.
+4. **pandas** - A library for data manipulation and analysis.
+5. **matplotlib** - A plotting library for creating static, animated, and interactive visualizations.
+6. **seaborn** - A Python data visualization library based on `matplotlib`.
+7. **plotly.express** - A high-level interface to Plotly for creating figures.
+8. **statsmodels** - A module that provides tools for estimating and testing statistical models.
+   - `arima` - For ARIMA modeling.
+   - `seasonal_decompose` - For time series decomposition.
+   - `plot_acf`, `plot_pacf` - For autocorrelation and partial autocorrelation plots.
+9. **sklearn (scikit-learn)** - A machine learning library for Python, especially for metrics like `mean_squared_error` and `mean_absolute_error`.
+10. **cv2 (OpenCV)** - An open-source computer vision library.
+
+### Installation
+
+You can install these libraries using `pip`. Run the following commands in your terminal or command prompt:
+
+```bash
+pip install numpy pandas matplotlib seaborn plotly statsmodels scikit-learn opencv-python
+
 
 ## App Screenshots
 
