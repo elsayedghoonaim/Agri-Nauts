@@ -102,11 +102,12 @@ pip install numpy pandas matplotlib seaborn plotly statsmodels scikit-learn open
   </tr>
   <tr>
     <td><img src="assets/screenshots/soil_moisture.jpg" alt="Soil Moisture Predction" width="300"/></td>
+    <td><img src="assets/screenshots/air-quality.jpg" alt="Air Quality Predction" width="300"/></td>
     <td></td>
   </tr>
   <tr>
     <td>Soil Moisture Predction</td>
-    <td></td>
+    <td>Air Quality Predction</td>
   </tr>
 </table>
 
