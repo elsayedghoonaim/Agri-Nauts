@@ -33,7 +33,7 @@ Farmers worldwide face numerous water-related challenges due to unpredictable we
 ## Technology Stack
 
 - **Mobile App Development**: Flutter (Dart)
-- **Backend**: Flask(python)
+- **Backend**: Flask (python)
 - **ML/Data**: Machine Learning, Deep Learning algorithms (RNN-LSTM), Computer Vision
   
 ## Data Source
