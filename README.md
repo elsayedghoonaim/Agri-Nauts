@@ -56,14 +56,19 @@ To ensure that the code runs smoothly, the following Python libraries and packag
    - `seasonal_decompose` - For time series decomposition.
    - `plot_acf`, `plot_pacf` - For autocorrelation and partial autocorrelation plots.
 9. **sklearn (scikit-learn)** - A machine learning library for Python, especially for metrics like `mean_squared_error` and `mean_absolute_error`.
-10. **cv2 (OpenCV)** - An open-source computer vision library.
+9. **scikit-learn (sklearn)** - A machine learning library for Python, especially for metrics like `mean_squared_error` and `mean_absolute_error`.
+10. **opencv (cv2)** - An open-source computer vision library.
+11. **PIL (Pillow)** - A Python Imaging Library for opening, manipulating, and saving images.
+12. **joblib** - A library for efficient serialization and parallel computing.
+13. **rasterio** - A library for reading and writing geospatial raster data.
+14. **datetime** - A built-in Python library for manipulating dates and times.
 
 ### Installation
 
 You can install these libraries using `pip`. Run the following commands in your terminal or command prompt:
 
 ```bash
-pip install numpy pandas matplotlib seaborn plotly statsmodels scikit-learn opencv-python
+pip install numpy pandas matplotlib seaborn plotly statsmodels scikit-learn opencv-python pillow joblib rasterio
 ```
 
 
