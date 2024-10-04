@@ -43,13 +43,7 @@ Farmers worldwide face numerous water-related challenges due to unpredictable we
 
 (Add instructions on how to set up and run the project locally)
 
-## Screenshots
-
-![Home Screen](assets/screenshots/home_screen.jpg)
-![Add Friend](assets/screenshots/add_friend.jpg)
-![Chat Bot](assets/screenshots/chat_bot.jpg)
-![Plant Disease Detection](assets/screenshots/plant_disease_detection.jpg)
-![Explore The Map](assets/screenshots/explore_your_map.jpg)
+## App Screenshots
 
 <table>
   <tr>
