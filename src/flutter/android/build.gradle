@@ -1,0 +1,28 @@
+buildscript {
+    repositories {
+        google() // Add Google's Maven repository
+        mavenCentral() // Add Maven Central repository
+    }
+    dependencies {
+        // Other dependencies can go here
+        classpath 'com.google.gms:google-services:4.4.2' // Google Services plugin
+    }
+}
+
+allprojects {
+    repositories {
+        google() // Ensure Google repository is included
+        mavenCentral() // Ensure Maven Central repository is included
+    }
+}
+
+rootProject.buildDir = "../build"
+
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+    project.evaluationDependsOn(":app") // Evaluate dependencies on the app project
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir // Clean build directory
+}
