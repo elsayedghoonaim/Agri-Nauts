@@ -38,6 +38,21 @@ Farmers worldwide face numerous water-related challenges due to unpredictable we
   
 ## Data Source
 
+1. [U.S. Drought Monitor](https://droughtmonitor.unl.edu/DmData/DataDownload/ComprehensiveStatistics.aspx)
+2. [NASA Earthdata Search](https://search.earthdata.nasa.gov/search/granules?p=C2531308461-NSIDC_ECS&pg[0][v]=f&pg[0][gsk]=-start_date&q=smap%20l4&tl=1728093676.543!3!!)
+3. [ORNL DAAC for Biogeochemical Dynamics](https://daac.ornl.gov/cgi-bin/theme_dataset_lister.pl?theme_id=3)
+4. [MODIS Web Service](https://modis.ornl.gov/data/modis_webservice.html)
+5. [NASA POWER](https://power.larc.nasa.gov/data-access-viewer/)
+6. [Google Earth Engine](https://code.earthengine.google.com/bf6837445a46bdb5af73592f9e99aa23?noload=1)
+7. [NASA Air Quality Data Pathfinder](https://www.earthdata.nasa.gov/learn/pathfinders/air-quality-data-pathfinder)
+8. [NASA-USDA SMAP Global Soil Moisture Data](https://developers.google.com/earth-engine/datasets/catalog/NASA_USDA_HSL_SMAP10KM_soil_moisture)
+9. [SERVIR's ClimateSERV](https://climateserv.servirglobal.net/help)
+10. [NASA Earthdata Agricultural and Water Resources Data Pathfinder](https://www.earthdata.nasa.gov/learn/pathfinders/agricultural-and-water-resources-data-pathfinder/find-data#water)
+11. [AppEEARS](https://appeears.earthdatacloud.nasa.gov/products)
+12. [NASA Earthdata Dashboard](https://www.earthdata.nasa.gov/dashboard/exploration?datasets=%5B%5D&taxonomy=%7B%22Topics%22%3A%5B%22agriculture%22%5D%7D&search=)
+13. [NASA Earthdata Soil Moisture Dashboard](https://www.earthdata.nasa.gov/dashboard/exploration?datasets=%5B%7B%22id%22%3A%22SoilMoi00_10cm_tavg%22%2C%22settings%22%3A%7B%22isVisible%22%3Atrue%2C%22opacity%22%3A100%2C%22analysisMetrics%22%3A%5B%7B%22id%22%3A%22mean%22%2C%22label%22%3A%22Average%22%2C%22chartLabel%22%3A%22Average%22%2C%22themeColor%22%3A%22infographicB%22%7D%2C%7B%22id%22%3A%22std%22%2C%22label%22%3A%22St+Deviation%22%2C%22chartLabel%22%3A%22St+Deviation%22%2C%22themeColor%22%3A%22infographicD%22%7D%5D%7D%7D%5D&taxonomy=%7B%7D&search=&date=2023-06-30T21%3A00%3A00.000Z)
+14. [NASS Crop Condition and Soil Moisture Analytics (Crop-CASMA)](https://nassgeo.csiss.gmu.edu/CropCASMA/)
+    
 ## Prerequisites
 
 To ensure that the code runs smoothly, the following Python libraries and packages should be installed. Below is a list of required libraries along with instructions on how to install them.
