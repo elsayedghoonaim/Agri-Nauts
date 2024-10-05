@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689288293584",
+    "project_id": "agri-nuts",
+    "storage_bucket": "agri-nuts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689288293584:android:5b35914f35d06a8ac942d5",
+        "android_client_info": {
+          "package_name": "com.example.nasaspaceapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUeJm500ap01lw0Xm_iLy-wDIBVmp7MzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
